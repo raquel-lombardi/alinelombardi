@@ -24,6 +24,6 @@ Sou estudante da FATEC Indaiatuba do curso de Análise e Desenvolvimento de Sist
   <a href = "mailto:alinelf86@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aline-lombardi" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  
+  ![Snake animation](https://github.com/alinelombardi/alinelombardi/blob/main/github-contribution-grid-snake.svg)
  
 </div>
