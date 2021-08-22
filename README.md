@@ -1,6 +1,7 @@
 ## Olá, eu sou a Aline Lombardi!
 
 Trabalho atualmente como Analista de TI, desenvolvendo chatbots na plataforma ALTU.
+
 Sou estudante da FATEC Indaiatuba do curso de Análise e Desenvolvimento de Sistemas e UNIFRAN curso Ciência da Computação. 
 
 
